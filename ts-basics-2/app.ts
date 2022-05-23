@@ -23,7 +23,7 @@
 
 // below is not allowed because its strictly [num, str]
 // person.role = [0, 'admin', 'user']
-
+// enum type
 enum Role {ADMIN = 5, READ_ONLY, AUTHOR}
 
 const person = {
