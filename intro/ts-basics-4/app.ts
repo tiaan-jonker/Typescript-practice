@@ -1,7 +1,7 @@
 // TS is inferring that type number will be returned 
 // : number at end not required
 // function add(n1: number, n2: number): number {
-  return n1 + n2
+  // return  n1 + n2
 // }
 
 // TS doing its job, the return is void
